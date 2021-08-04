@@ -7,4 +7,3 @@ Repository ini berisi lik website yang pernah saya buat. Kebanyakan saya hosting
 ## Submission Front End (Dicoding Indonesia)
 [Submission FrontEnd Pemula](https://almuqsitalif08.github.io/Dicoding_Submission_Front_End_Pemula/ "Ini adalah website yg saya buat untuk memenuhi tugas dari Dicoding Indonesia")   
 
-[Link Coba](https://github.com/almuqsitalif08/Dicoding_Submission_Front_End_Pemula/)
